@@ -1,1 +1,11 @@
 .heading-wrap {opacity: 0;}
+  
+::-moz-selection {
+    background: #2156F6;
+    color: white;
+  }
+::selection {
+    background: #2156F6;
+    color: white;
+  }
+</style>
