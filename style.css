@@ -1,5 +1,4 @@
-.heading-wrap {opacity: 0;}
-  
+
 ::-moz-selection {
     background: #2156F6;
     color: white;
@@ -8,4 +7,3 @@
     background: #2156F6;
     color: white;
   }
-</style>
