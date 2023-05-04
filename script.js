@@ -72,7 +72,7 @@ function reloadLottiePlayer() {
   const lottiePlayerHeight = lottiePlayer.clientHeight;
 
   lottiePlayer.remove();
-  document.getElementById('lottie-player-wrapper').innerHTML = `<lottie-player id="lottie-player-src" src="${src}" background="transparent" speed="1" style="width: 100%; height: 100%; min-height: ${lottiePlayerHeight}px;" autoplay=""></lottie-player>`;
+  document.getElementById('lottie-player-wrapper').innerHTML = `<lottie-player id="lottie-player-src" src="${src}" background="transparent" speed="1" style="width: 100%; height: 100%; min-height: ${lottiePlayerHeight}px;"></lottie-player>`;
 }
 appSelect.addEventListener('change', reloadLottiePlayer);
 envSelect.addEventListener('change', reloadLottiePlayer);
