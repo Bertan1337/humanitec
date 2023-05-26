@@ -5,8 +5,8 @@ const providerSelect = document.getElementById('provider-select');
   // Define the unique text-strings for every combination of select fields
 const textStrings = {
     Python_Production_GCP: 'https://uploads-ssl.webflow.com/64462c9aa967776f20e53b43/6470716c041bb767ead462aa_python_prod_gcpspotlight-ewa-26May23.json',
-    Python_Production_AWS: 'https://uploads-ssl.webflow.com/64462c9aa967776f20e53b43/64462c9aa96777554ee53d81_10.json',
-		Python_Production_Azure: 'https://uploads-ssl.webflow.com/64462c9aa967776f20e53b43/64462c9aa9677750cbe53d8c_13.json',
+    Python_Production_AWS: 'https://uploads-ssl.webflow.com/64462c9aa967776f20e53b43/6470716c041bb767ead4629e_python_prod_awsspotlight-ewa-26May23.json',
+		Python_Production_Azure: 'https://uploads-ssl.webflow.com/64462c9aa967776f20e53b43/6470716d55379a10a0d30868_python_prod_azurespotlight-ewa-26May23.json',
     Python_Staging_GCP: 'https://uploads-ssl.webflow.com/64462c9aa967776f20e53b43/6448e8186bd02f01bbc9ff86_python_stag_gcp.json',
     Python_Staging_AWS: 'https://uploads-ssl.webflow.com/64462c9aa967776f20e53b43/6448e817f04e252b310caf32_python_stag_aws.json',
 	Python_Staging_Azure: 'https://uploads-ssl.webflow.com/64462c9aa967776f20e53b43/6448e8171edf281d75317082_python_stag_azure.json',
